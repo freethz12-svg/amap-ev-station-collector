@@ -1,0 +1,4 @@
+interface:
+  display_name: "AMap EV Station Collector"
+  short_description: "Filter, capture, parse, and audit AMap EV stations"
+  default_prompt: "Use $amap-ev-station-collector to collect public car charging stations within 3 km and build the verified Excel output."
