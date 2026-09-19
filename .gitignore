@@ -1,0 +1,10 @@
+.env
+*.xlsx
+*.xls
+captures/
+outputs/
+debug/
+*.png
+*.jpg
+*.xml
+*.json
